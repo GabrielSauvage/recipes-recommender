@@ -1,5 +1,6 @@
 .idea
 .vscode
 dist
+data
 data/raw/
 data/processed/
