@@ -1,0 +1,5 @@
+numpy
+pandas
+scikit-learn
+sqlalchemy
+jinja2
