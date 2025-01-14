@@ -3,3 +3,4 @@ pandas
 scikit-learn
 sqlalchemy
 jinja2
+pulp
